@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amer Daghlis</h1>
-<h3 align="center">A third-year student at Birzeit University</h3>
+<h3 align="center">A third-year computer science student at Birzeit University</h3>
 
 - 🌱 I’m currently learning **React.js**
 
